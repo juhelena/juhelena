@@ -4,8 +4,8 @@
 </div>
 <div> 
 <br> 
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white&link=juliahelenam04@gmail.com)](mailto:juliahelenam04@gmail.com)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliahelenam)](https://www.linkedin.com/in/juliahelenam)
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/juuhelenam/)](https://www.instagram.com/juuhelenam/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white&link=elizeumagg@gmail.com)](mailto:elizeumagg@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizeumagalhaes)](https://www.linkedin.com/in/elizeumagalhaes)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/elizeumagalhaes/)](https://www.instagram.com/elizeumagalhaes/)
 </div>
 
