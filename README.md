@@ -1,4 +1,4 @@
-### Oii, eu sou a Júlia! 😄
+## Oii, eu sou a Júlia! 😄
 
 <div align="left">
   <a href="https://github.com/juhelena">
